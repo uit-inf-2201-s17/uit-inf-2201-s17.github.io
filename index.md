@@ -2,7 +2,9 @@
 layout: default
 ---
 
-## Administrative information2
+
+
+## Administrative information
 
 Administrative course information is available [here](https://uit.no/utdanning/emner/emne/481430/inf-2201)
 
