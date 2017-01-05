@@ -1,8 +1,7 @@
 ---
 layout: default
+title: Home
 ---
-
-Test 123
 
 ## Administrative information
 
