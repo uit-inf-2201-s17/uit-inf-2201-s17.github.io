@@ -32,7 +32,7 @@ We have the following rooms and hours:
 
 | Project |	Start      | Due     | Subject | Lecturer |
 |---------|------------|---------|----------|---------|
-| P1 	    | Date       | Date     | Assignment 1 | Lecturer 
+| P1 	    | Date       | Date     | Assignment 1 | Lecturer |
 
 ## Exercises
 
