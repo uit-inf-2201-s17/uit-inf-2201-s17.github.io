@@ -11,7 +11,15 @@ We use the [course@list.uit.no](https://list.uit.no/sympa/info/course) mailing l
 
 We have the following rooms and hours:
 
-* 
+* Mondays, 10:15-12:00, TEKNOBYGGET 1.016
+* Mondays, 10:15-12:00, REALF A016
+* Tuesdays, 10:15-12:00, Lille Aud (REALF B203)
+* Wednesdays, 14:15-16:00, TEKNOBYGGET 1.023AUD
+* Thursdays, 12:15-14:00, Lille Aud (REALF B203)
+* Fridays, 12:15-14:00, TEKNOBYGGET 1.017
+* Fridays, 12:15-14:00, TEKNOBYGGET 1.018
+
+Refer to the lecture and mandatory assignment plan, and e-mails, for which room is used when.
 
 ## Staff
 
