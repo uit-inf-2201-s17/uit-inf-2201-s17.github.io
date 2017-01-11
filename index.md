@@ -7,7 +7,11 @@ title: Home
 
 Administrative course information is available [here](https://uit.no/utdanning/emner/emne/481430/inf-2201)
 
-We use the [course@list.uit.no](https://list.uit.no/sympa/info/course) mailing list to send important information.
+The github repository for this course is: [github.com/uit-inf-2201-s17/](https://github.com/uit-inf-2201-s17/)
+
+We use the [inf-2201-s17@list.uit.no](https://list.uit.no/sympa/info/course) mailing list to send important information.
+
+We also have a Slack room [uit-inf-2201-s17](https://uit-inf-2201-s17.slack.com).
 
 We have the following rooms and hours:
 
@@ -24,23 +28,68 @@ Refer to the lecture and mandatory assignment plan, and e-mails, for which room 
 ## Staff
 
 * Lars Ailo Bongo (larsab@cs.uit.no, A257)
+* Tore Brox-Larsen (tore@cs.uit.no, A254)
+* Marius Foshaug Wiik (mwi052@post.uit.no)
+* Nikolai Åsen Magnussen (nikolai.a.magnussen@uit.no)
 
 ## Lecture plan
 
-| Lecture   	| Date		    | Subject	  | Lecturer |
-|-----------|-----------|-----------|----------|
-| L1  | 12.01.17 | Introduction | Lars Ailo |
+| Lecture | Date | Subject	    | Readings  | Lecturer  |
+|---------|------|--------------|-----------|-----------|
+| L1  | 12.01.17 | Introduction | MOS 1.1 - 1.3  | Lars Ailo |
+| L2  | 17.01.17 | IA32 OS Support; Protection | MOS 1.4 - 1.5 | Lars Ailo |
+| L3  | 19.01.17 | OS Structure | MOS 1.6 - 1.7; 12 | Lars Ailo |
+| L4  | 24.01.17 | Processes, Non-Preemtive Scheduling | MOS 2.1, 2.2 | Lars Ailo |
+| L5  | 26.01.17 | Threads, Critical Sections | MOS 2.4 - 2.5 | Lars Ailo |
+| L6  | 31.01.17 | Mutual Exclusion | MOS 2.2 - 2.3.6 | TBD |
+| L7  | 02.02.17 | Semaphores | MOS 2.5 - ?? | TBD |
+| L8  | 07.02.17 | Monitors   | MOS 2.3.4 - 2.3.5 | TBD |
+| L9  | 09.02.17 | Semaphores and Monitors | MOS 2.3.5 - 2.3.7 | TBD |
+| L10 | 14.02.17 | Thread Packages | MOS 2.2 | Lars Ailo |
+| L11 | 16.02.17 | CPU Scheduling | MOS 2.4 | TBD |
+| L12 | 21.02.17 | Deadlocks | MOS 6 | TBD |
+| L13 | 23.02.17 | Message passing | MOS 2.3.8 | TBD |
+| L14 | 28.02.17 | I/O Devices and Drivers | MOS 5 | TBD |
+| L15 | 02.03.17 | Adress Translation, Paging | MOS 3.1 - 3.3, 3.7| TBD |
+| L16 | 07.03.17 | Memory Management | MOS 3.4 | TBD |
+| L17 | 09.03.17 | Paging, VM Design | MOS 3.5 - 3.9 | TBD |
+| L18 | 14.03.17 | Storage | MOS 5.4 | TBD |
+| L19 | 16.03.17 | File Systems I | MOS 4.1 - 4.6 | TBD |
+| L20 | 21.03.17 | File Systems II | MOS 4.1 - 4.6 | TBD |
+| L21 | 23.03.17 | Virtual Machines | MOS 7 | |
+| L22 | 28.03.17 | Hot topic I | TBA | Lars Ailo |
+| L23 | 30.03.17 | Hot topic II | TBA | Lars Ailo |
+| -   | 04.04.17 | - | - | - |
+| -   | 06.04.17 | - | - | - |
+| -   | 20.04.17 | - | - | - |
+| -   | 25.04.17 | - | - | - |
+| -   | 27.04.17 | - | - | - |
+| -   | 02.05.17 | - | - | - |
+| -   | 04.05.17 | - | - | - |
+| -   | 09.05.17 | - | - | - |
+| -   | 11.05.17 | - | - | - |
 
 ## Readings
 
-1. 
+Mandatory:
+
+1. Andrew S. Tanenbaum, Modern Operating Systems, 4th Ed., Pearson Educational Limited, 2015. ISBN 10: 1-292-06142-1. Chapters: 1-7, 12.
+
+Suggested additional readings:
+
+1. [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/). Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau.
+
 
 ## Mandatory assignments
 
-| Project |	Start      | Due     | Subject | Lecturer |
-|---------|------------|---------|----------|---------|
-| P1 	    | Date       | Date     | Assignment 1 | Lecturer |
+| Project |	Precepts | Desgin review | Due | Subject|
+|---------|----------|----------|----------|---------|
+| P1 	  | 18.01.17 | 23.01.17 | 01.02.17 | Boot-up mechanism |
+| P2      | 01.02.17 | 06.02.17 | 15.02.17 | Assignment 2 |
+| P3.1    | 15.02.17 | 20.02.17 | 01.03.17 | Assignemnt 3.1 |
+| P3.2    | 01.03.17 | 06.03.17 | 15.03.17 | Assignment 3.2 |
+| P4      | 15.03.17 | 20.03.17 | 29.03.17 | Assignment 4 | 
+| P5      | 29.03.17 | 03.04.17 | 19.04.17 | Assignment 5 |
+| Easter  | 13.04.17 | -        | 17.04.17 | God tur |
+| P6      | 19.04.17 | 24.04.17 | 10.05.17 | Assignment 6 | 
 
-## Exercises
-
-1. 
