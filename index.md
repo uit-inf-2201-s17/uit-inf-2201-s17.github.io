@@ -9,9 +9,9 @@ Administrative course information is available [here](https://uit.no/utdanning/e
 
 The github repository for this course is: [github.com/uit-inf-2201-s17/](https://github.com/uit-inf-2201-s17/)
 
-We use the [inf-2201-s17@list.uit.no](https://list.uit.no/sympa/info/course) mailing list to send important information.
+We use the [inf-2201-s17@list.uit.no](https://list.uit.no/sympa/info/inf-2201-s17) mailing list to send important information.
 
-We also have a Slack room [uit-inf-2201-s17](https://uit-inf-2201-s17.slack.com).
+We also have a Slack team [uit-inf-2201-s17](https://uit-inf-2201-s17.slack.com).
 
 We have the following rooms and hours:
 
@@ -36,7 +36,7 @@ Refer to the lecture and mandatory assignment plan, and e-mails, for which room 
 
 | Lecture | Date | Subject	    | Readings  | Lecturer  |
 |---------|------|--------------|-----------|-----------|
-| L1  | 12.01.17 | Introduction | MOS 1.1 - 1.3  | Lars Ailo |
+| L1  | 12.01.17 | [Introduction](lectures/01-introduction.pptx) | MOS 1.1 - 1.3  | Lars Ailo |
 | L2  | 17.01.17 | IA32 OS Support; Protection | MOS 1.4 - 1.5 | Lars Ailo |
 | L3  | 19.01.17 | OS Structure | MOS 1.6 - 1.7; 12 | Lars Ailo |
 | L4  | 24.01.17 | Processes, Non-Preemtive Scheduling | MOS 2.1, 2.2 | Lars Ailo |
