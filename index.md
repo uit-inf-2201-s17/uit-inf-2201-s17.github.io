@@ -32,7 +32,7 @@ Refer to the lecture and mandatory assignment plan, and e-mails, for which room 
 * Marius Wiik (mwi052@post.uit.no)
 * Nikolai Magnussen (nikolai.a.magnussen@uit.no)
 
-## Lecture plan
+## Lecture plan (will be updated)
 
 | Lecture | Date | Subject	    | Readings  | Lecturer  |
 |---------|------|--------------|-----------|-----------|
@@ -85,11 +85,10 @@ Suggested additional readings:
 | Project |	Precepts | Desgin review | Due | Subject|
 |---------|----------|----------|----------|---------|
 | P1 	  | 18.01.17 | 23.01.17 | 01.02.17 | Boot-up mechanism |
-| P2      | 01.02.17 | 06.02.17 | 15.02.17 | Assignment 2 |
-| P3.1    | 15.02.17 | 20.02.17 | 01.03.17 | Assignemnt 3.1 |
-| P3.2    | 01.03.17 | 06.03.17 | 15.03.17 | Assignment 3.2 |
-| P4      | 15.03.17 | 20.03.17 | 29.03.17 | Assignment 4 | 
-| P5      | 29.03.17 | 03.04.17 | 19.04.17 | Assignment 5 |
+| P2      | 01.02.17 | 06.02.17 | 22.02.17 | Assignment 2 |
+| P3      | 22.02.17 | 27.02.17 | 08.03.17 | Assignemnt 3 |
+| P4      | 08.03.17 | 13.03.17 | 29.03.17 | Assignment 4 |
 | Easter  | 13.04.17 | -        | 17.04.17 | God tur |
-| P6      | 19.04.17 | 24.04.17 | 10.05.17 | Assignment 6 | 
+| P5      | 29.03.17 | 03.04.17 | 26.04.17 | Assignment 5 |
+| P6      | 26.04.17 | 05.05.17 | 24.05.17 | Assignment 6 | 
 
