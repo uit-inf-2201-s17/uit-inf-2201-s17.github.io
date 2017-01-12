@@ -29,8 +29,8 @@ Refer to the lecture and mandatory assignment plan, and e-mails, for which room 
 
 * Lars Ailo Bongo (larsab@cs.uit.no, A257)
 * Tore Brox-Larsen (tore@cs.uit.no, A254)
-* Marius Foshaug Wiik (mwi052@post.uit.no)
-* Nikolai Åsen Magnussen (nikolai.a.magnussen@uit.no)
+* Marius Wiik (mwi052@post.uit.no)
+* Nikolai Magnussen (nikolai.a.magnussen@uit.no)
 
 ## Lecture plan
 
