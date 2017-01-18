@@ -36,7 +36,7 @@ Refer to the lecture and mandatory assignment plan, and e-mails, for which room 
 
 | Lecture | Date | Subject	    | Readings  | Lecturer  |
 |---------|------|--------------|-----------|-----------|
-| L1  | 12.01.17 | [Introduction](lectures/01-introduction.pptx) | MOS 1.1 - 1.3  | Lars Ailo |
+| L1  | 12.01.17 | Introduction [[PP]](lectures/01-introduction.pptx) [[PDF]](lectures/01-introduction.pdf) | MOS 1.1 - 1.3  | Lars Ailo |
 | L2  | 17.01.17 | IA32 OS Support; Protection | MOS 1.4 - 1.5 | Lars Ailo |
 | L3  | 19.01.17 | OS Structure | MOS 1.6 - 1.7; 12 | Lars Ailo |
 | L4  | 24.01.17 | Processes, Non-Preemtive Scheduling | MOS 2.1, 2.2 | Lars Ailo |
@@ -90,5 +90,4 @@ Suggested additional readings:
 | P4      | 08.03.17 | 13.03.17 | 29.03.17 | Assignment 4 |
 | Easter  | 13.04.17 | -        | 17.04.17 | God tur |
 | P5      | 29.03.17 | 03.04.17 | 26.04.17 | Assignment 5 |
-| P6      | 26.04.17 | 05.05.17 | 24.05.17 | Assignment 6 | 
-
+| P6      | 26.04.17 | 05.05.17 | 24.05.17 | Assignment 6 |
