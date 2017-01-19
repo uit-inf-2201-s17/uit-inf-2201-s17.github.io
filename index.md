@@ -82,6 +82,8 @@ Suggested additional readings:
 
 ## Mandatory assignments
 
+Note! The [UiT rules regarding cheating on exams](https://uit.no/om/enhet/artikkel?p_document_id=473719&p_dimension_id=88138&men=28714) applies for all projects.
+
 | Project |	Precepts | Desgin review | Due | Subject|
 |---------|----------|----------|----------|---------|
 | P1 	  | 18.01.17 | 23.01.17 | 01.02.17 | Boot-up mechanism |
