@@ -86,10 +86,10 @@ Note! The UiT rules regarding cheating on exams ["Kildebruk, plagiering og fusk 
 
 | Project |	Precepts | Desgin review | Due | Subject|
 |---------|----------|----------|----------|---------|
-| P1 	  | 18.01.17 | 23.01.17 | 01.02.17 | Boot-up mechanism |
-| P2      | 01.02.17 | 06.02.17 | 22.02.17 | Assignment 2 |
-| P3      | 22.02.17 | 27.02.17 | 08.03.17 | Assignemnt 3 |
-| P4      | 08.03.17 | 13.03.17 | 29.03.17 | Assignment 4 |
+| P1 	  | 18.01.17 | 25.01.17 | 01.02.17 | Boot-up mechanism |
+| P2      | 01.02.17 | 08.02.17 | 22.02.17 | Assignment 2 |
+| P3      | 22.02.17 | 29.02.17 | 08.03.17 | Assignemnt 3 |
+| P4      | 08.03.17 | 15.03.17 | 29.03.17 | Assignment 4 |
 | Easter  | 13.04.17 | -        | 17.04.17 | God tur |
-| P5      | 29.03.17 | 03.04.17 | 26.04.17 | Assignment 5 |
-| P6      | 26.04.17 | 05.05.17 | 24.05.17 | Assignment 6 |
+| P5      | 29.03.17 | 05.04.17 | 26.04.17 | Assignment 5 |
+| P6      | 26.04.17 | ?        | 24.05.17 | Assignment 6 |
