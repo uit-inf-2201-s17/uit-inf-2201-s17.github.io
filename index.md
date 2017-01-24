@@ -38,7 +38,7 @@ Refer to the lecture and mandatory assignment plan, and e-mails, for which room 
 |---------|------|--------------|-----------|-----------|
 | L1  | 12.01.17 | [Introduction](lectures/01-introduction.pptx) and [Operating Systems](lectures/01-OS.pptx) | MOS 1.1 - 1.3  | Lars Ailo |
 | L2  | 17.01.17 | [IA32 OS Support](lectures/02 - OS Support.pdf); and [Protection](lectures/02 - Protection.pdf) | MOS 1.4 - 1.5 | Lars Ailo |
-| L3  | 19.01.17 | [OS Structure](lectures/03 - OS Structure.pdf) | MOS 1.6 - 1.7; 12 | Lars Ailo |
+| L3  | 19.01.17 | [OS Structure](lectures/03 - Structure.pdf) | MOS 1.6 - 1.7; 12 | Lars Ailo |
 | L4  | 24.01.17 | [Processes, Non-Preemtive Scheduling](lectures/04 - nonpreemptive.pptx) | MOS 2.1, 2.2 | Lars Ailo |
 | L5  | 26.01.17 | Threads, Critical Sections | MOS 2.4 - 2.5 | Lars Ailo |
 | -   | 31.01.17 | No lecture | - | - |
