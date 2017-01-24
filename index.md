@@ -9,9 +9,10 @@ Administrative course information is available [here](https://uit.no/utdanning/e
 
 The github repository for this course is: [github.com/uit-inf-2201-s17/](https://github.com/uit-inf-2201-s17/)
 
-We use the [inf-2201-s17@list.uit.no](https://list.uit.no/sympa/info/inf-2201-s17) mailing list to send important information.
+We use the [inf-2201-s17@list.uit.no](https://list.uit.no/sympa/info/inf-2201-s17) mailing list to send important information. PS: archived list mails are also located at the list site.
 
 We also have a Slack team [uit-inf-2201-s17](https://uit-inf-2201-s17.slack.com).
+
 
 We have the following rooms and hours:
 
