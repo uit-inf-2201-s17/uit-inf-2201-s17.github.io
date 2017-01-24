@@ -46,7 +46,7 @@ Refer to the lecture and mandatory assignment plan, and e-mails, for which room 
 | L7  | 07.02.17 | Semaphores | MOS 2.5 - ?? | TBD |
 | L8  | 09.02.17? | Monitors   | MOS 2.3.4 - 2.3.5 | TBD |
 | L9  | 14.02.17 | Semaphores and Monitors | MOS 2.3.5 - 2.3.7 | TBD |
-| L10 | 16.02.17 | Thread Packages | MOS 2.2 | Lars Ailo |
+| L10 | 16.02.17 | Thread Packages. **NOTE!** moved to TEKNOBYGGET Aud 1.023 | MOS 2.2 | Lars Ailo |
 | -   | 21.02.17 | No lecture | - | - |
 | L11 | 23.02.17 | CPU Scheduling | MOS 2.4 | TBD |
 | L12 | 28.02.17 | Deadlocks | MOS 6 | TBD |
