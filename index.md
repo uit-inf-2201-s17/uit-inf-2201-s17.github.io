@@ -44,8 +44,7 @@ Refer to the lecture and mandatory assignment plan, and e-mails, for which room 
 | -   | 31.01.17 | No lecture | - | - |
 | L6  | 02.02.17 | Mutual Exclusion | MOS 2.2 - 2.3.6 | TBD |
 | L7  | 07.02.17 | Semaphores | MOS 2.5 - ?? | TBD |
-<!---LAB in Stockholm on 9/2 --->
-| L8  | 09.02.17 | Monitors   | MOS 2.3.4 - 2.3.5 | TBD |
+| L8  | 09.02.17? | Monitors   | MOS 2.3.4 - 2.3.5 | TBD |
 | L9  | 14.02.17 | Semaphores and Monitors | MOS 2.3.5 - 2.3.7 | TBD |
 | L10 | 16.02.17 | Thread Packages | MOS 2.2 | Lars Ailo |
 | -   | 21.02.17 | No lecture | - | - |
@@ -56,11 +55,9 @@ Refer to the lecture and mandatory assignment plan, and e-mails, for which room 
 | L15 | 09.03.17 | Adress Translation, Paging | MOS 3.1 - 3.3, 3.7| TBD |
 | -   | 14.03.17 | No lecture | - | - |
 | L16 | 16.03.17 | Memory Management | MOS 3.4 | TBD |
-<!---LAB in Rome on 20/3 - 23/3 --->
-| L17 | 21.03.17 | Paging, VM Design | MOS 3.5 - 3.9 | TBD |
-| L18 | 23.03.17 | Storage | MOS 5.4 | TBD |
-<!---LAB in Palermo on 28/3? --->
-| L19 | 28.03.17 | File Systems I | MOS 4.1 - 4.6 | TBD |
+| L17 | 21.03.17? | Paging, VM Design | MOS 3.5 - 3.9 | TBD |
+| L18 | 23.03.17? | Storage | MOS 5.4 | TBD |
+| L19 | 28.03.17? | File Systems I | MOS 4.1 - 4.6 | TBD |
 | L20 | 30.03.17 | File Systems II | MOS 4.1 - 4.6 | TBD |
 | -   | 04.04.17 | No lecture | - | - |
 | L21 | 06.04.17 | Virtual Machines | MOS 7 | |
@@ -93,6 +90,6 @@ Note! The UiT rules regarding cheating on exams ["Kildebruk, plagiering og fusk 
 | P2      | 01.02.17 | 08.02.17 | 22.02.17 | Assignment 2 |
 | P3      | 22.02.17 | 29.02.17 | 15.03.17 | Assignemnt 3 |
 | P4      | 15.03.17 | 29.03.17 | 05.04.17 | Assignment 4 |
-| Easter  | 13.04.17 | -        | 17.04.17 | God tur |
 | P5      | 05.04.17 | 10.04.17 | 26.04.17? | Assignment 5 |
+| Easter  | 13.04.17 | -        | 17.04.17 | God tur |
 | P6      | 26.04.17? | ?        | 24.05.17? | Assignment 6 |
