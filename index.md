@@ -41,30 +41,30 @@ Refer to the lecture and mandatory assignment plan, and e-mails, for which room 
 | L2  | 17.01.17 | [IA32 OS Support](lectures/02 - OS Support.pdf); and [Protection](lectures/02 - Protection.pdf) | MOS 1.4 - 1.5 | Lars Ailo |
 | L3  | 19.01.17 | [OS Structure](lectures/03 - Structure.pdf) | MOS 1.6 - 1.7; 12 | Lars Ailo |
 | L4  | 24.01.17 | [Processes, Non-Preemtive Scheduling](lectures/04 - nonpreemptive.pptx) | MOS 2.1, 2.2 | Lars Ailo |
-| L5  | 26.01.17 | Threads, Critical Sections | MOS 2.4 - 2.5 | Lars Ailo |
+| -   | 26.01.17 | Cancelled | - | Lars Ailo |
 | -   | 31.01.17 | No lecture | - | - |
-| L6  | 02.02.17 | Mutual Exclusion | MOS 2.2 - 2.3.6 | TBD |
-| L7  | 07.02.17 | Semaphores | MOS 2.5 - ?? | TBD |
-| L8  | 09.02.17? | Monitors   | MOS 2.3.4 - 2.3.5 | TBD |
-| L9  | 14.02.17 | Semaphores and Monitors | MOS 2.3.5 - 2.3.7 | TBD |
-| L10 | 16.02.17 | Thread Packages. **NOTE!** moved to TEKNOBYGGET Aud 1.023 | MOS 2.2 | Lars Ailo |
+| L5  | 02.02.17 | Threads, Critical Sections | MOS 2.4 - 2.5 | Lars Ailo |
+| L6  | 07.02.17 | Mutual Exclusion | MOS 2.2 - 2.3.6 | TBD |
+| L7  | 09.02.17? | Semaphores | MOS 2.5 - ?? | TBD |
+| L8  | 14.02.17 | Monitors   | MOS 2.3.4 - 2.3.5 | TBD |
+| L9  | 16.02.17 | Semaphores and Monitors | MOS 2.3.5 - 2.3.7 | TBD |
 | -   | 21.02.17 | No lecture | - | - |
-| L11 | 23.02.17 | CPU Scheduling | MOS 2.4 | TBD |
-| L12 | 28.02.17 | Deadlocks | MOS 6 | TBD |
-| L13 | 02.03.17 | Message passing | MOS 2.3.8 | TBD |
-| L14 | 07.02.17 | I/O Devices and Drivers | MOS 5 | TBD |
-| L15 | 09.03.17 | Adress Translation, Paging | MOS 3.1 - 3.3, 3.7| TBD |
+| L10 | 23.02.17 | Thread Packages. **NOTE!** moved to TEKNOBYGGET Aud 1.023 | MOS 2.2 | Lars Ailo |
+| L11 | 28.02.17 | CPU Scheduling | MOS 2.4 | TBD |
+| L12 | 02.03.17 | Deadlocks | MOS 6 | TBD |
+| L13 | 07.03.17 | Message passing | MOS 2.3.8 | TBD |
+| L14 | 09.02.17 | I/O Devices and Drivers | MOS 5 | TBD |
 | -   | 14.03.17 | No lecture | - | - |
-| L16 | 16.03.17 | Memory Management | MOS 3.4 | TBD |
-| L17 | 21.03.17? | Paging, VM Design | MOS 3.5 - 3.9 | TBD |
-| L18 | 23.03.17? | Storage | MOS 5.4 | TBD |
-| L19 | 28.03.17? | File Systems I | MOS 4.1 - 4.6 | TBD |
-| L20 | 30.03.17 | File Systems II | MOS 4.1 - 4.6 | TBD |
+| L15 | 16.03.17 | Adress Translation, Paging | MOS 3.1 - 3.3, 3.7| TBD |
+| L16 | 21.03.17? | Memory Management | MOS 3.4 | TBD |
+| L17 | 23.03.17? | Paging, VM Design | MOS 3.5 - 3.9 | TBD |
+| L18 | 28.03.17? | Storage | MOS 5.4 | TBD |
+| L19 | 30.03.17 | File Systems I | MOS 4.1 - 4.6 | TBD |
 | -   | 04.04.17 | No lecture | - | - |
-| L21 | 06.04.17 | Virtual Machines | MOS 7 | |
-| L22 | 20.04.17 | Hot topic I | TBA | Lars Ailo |
-| L23 | 25.04.17 | Hot topic II | TBA | Lars Ailo |
-| -   | 27.04.17 | - | - | - |
+| L20 | 06.04.17 | File Systems II | MOS 4.1 - 4.6 | TBD |
+| L21 | 20.04.17 | Virtual Machines | MOS 7 | |
+| L22 | 25.04.17 | Hot topic I | TBA | Lars Ailo |
+| L23 | 27.04.17 | Hot topic II | TBA | Lars Ailo |
 | -   | 02.05.17 | - | - | - |
 | -   | 04.05.17 | - | - | - |
 | -   | 09.05.17 | - | - | - |
