@@ -43,13 +43,13 @@ Refer to the lecture and mandatory assignment plan, and e-mails, for which room 
 | L4  | 24.01.17 | [Processes, Non-Preemtive Scheduling](lectures/04 - nonpreemptive.pptx) | MOS 2.1, 2.2 | Lars Ailo |
 | -   | 26.01.17 | Cancelled | - | Lars Ailo |
 | -   | 31.01.17 | No lecture | - | - |
-| L5  | 02.02.17 | Threads, Critical Sections | MOS 2.4 - 2.5 | Lars Ailo |
-| L6  | 07.02.17 | Mutual Exclusion | MOS 2.2 - 2.3.6 | TBD |
-| L7  | 09.02.17? | Semaphores | MOS 2.5 - ?? | TBD |
-| L8  | 14.02.17 | Monitors   | MOS 2.3.4 - 2.3.5 | TBD |
-| L9  | 16.02.17 | Semaphores and Monitors | MOS 2.3.5 - 2.3.7 | TBD |
+| L5  | 02.02.17 | Threads, Critical Sections | MOS 2.4 - 2.5 | Tore |
+| L6  | 07.02.17 | Mutual Exclusion | MOS 2.2 - 2.3.6 | Tore |
+| L7  | 09.02.17? | Semaphores | MOS 2.5 - ?? | Tore |
+| L8  | 14.02.17 | Monitors   | MOS 2.3.4 - 2.3.5 | Tore |
+| L9  | 16.02.17 | Semaphores and Monitors | MOS 2.3.5 - 2.3.7 | Tore |
 | -   | 21.02.17 | No lecture | - | - |
-| L10 | 23.02.17 | Thread Packages. **NOTE!** moved to TEKNOBYGGET Aud 1.023 | MOS 2.2 | Lars Ailo |
+| L10 | 23.02.17 | Thread Packages | MOS 2.2 | Lars Ailo |
 | L11 | 28.02.17 | CPU Scheduling | MOS 2.4 | TBD |
 | L12 | 02.03.17 | Deadlocks | MOS 6 | TBD |
 | L13 | 07.03.17 | Message passing | MOS 2.3.8 | TBD |
