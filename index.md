@@ -46,27 +46,29 @@ Refer to the lecture and mandatory assignment plan, and e-mails, for which room 
 | L5  | 02.02.17 | [Threads, Critical Sections](lectures/05 - Threads.pdf) | MOS 2.4 - 2.5 | Tore |
 | L6  | 09.02.17 | [Mutual Exclusion](lectures/06 - Mutual Exclusion.pdf) | MOS 2.2 - 2.3.6 | Tore |
 | L7  | 14.02.17 | [Semaphores](lectures/07 - Semaphores.pdf) | MOS 2.5 - ?? | Tore |
-| L8  | 16.02.17 | Monitors   | MOS 2.3.4 - 2.3.5 | Tore |
-| L9  | 16.02.17 | Semaphores and Monitors | MOS 2.3.5 - 2.3.7 | Tore |
+| L8  | 16.02.17 | Monitors (slides in Fronter)  | MOS 2.3.4 - 2.3.5 | Tore |
+| L9  | 16.02.17 | Semaphores and Monitors (slides in Fronter) | MOS 2.3.5 - 2.3.7 | Tore |
 | -   | 21.02.17 | No lecture | - | - |
-| L10 | 23.02.17 | Thread Packages | MOS 2.2 | Lars Ailo |
-| L11 | 28.02.17 | CPU Scheduling | MOS 2.4 | TBD |
-| L12 | 02.03.17 | Deadlocks | MOS 6 | TBD |
-| L13 | 07.03.17 | Message passing | MOS 2.3.8 | TBD |
-| L14 | 09.02.17 | I/O Devices and Drivers | MOS 5 | TBD |
+| L10 | 23.02.17 | Thread Packages (slides in Fronter) | MOS 2.2 | Tore |
+| L11 | 28.02.17 | CPU Scheduling (slides in Fronter) | MOS 2.4 | Tore |
+| L12 | 02.03.17 | Deadlocks (slides in Fronter) | MOS 6 | Tore |
+| L13 | 07.03.17 | Message passing (slides in Fronter) | MOS 2.3.8 | Tore |
+| L14 | 09.02.17 | I/O Devices and Drivers (slides in Fronter) | MOS 5 | Tore |
 | -   | 14.03.17 | No lecture | - | - |
-| L15 | 16.03.17 | Adress Translation, Paging | MOS 3.1 - 3.3, 3.7| TBD |
-| L16 | 21.03.17? | Memory Management | MOS 3.4 | TBD |
-| L17 | 23.03.17? | Paging, VM Design | MOS 3.5 - 3.9 | TBD |
-| L18 | 28.03.17? | Storage | MOS 5.4 | TBD |
-| L19 | 30.03.17 | File Systems I | MOS 4.1 - 4.6 | TBD |
-| -   | 04.04.17 | No lecture | - | - |
-| L20 | 06.04.17 | File Systems II | MOS 4.1 - 4.6 | TBD |
-| L21 | 20.04.17 | Virtual Machines | MOS 7 | |
-| L22 | 25.04.17 | Hot topic I | TBA | Lars Ailo |
-| L23 | 27.04.17 | Hot topic II | TBA | Lars Ailo |
-| -   | 02.05.17 | - | - | - |
-| -   | 04.05.17 | - | - | - |
+| L15 | 16.03.17 | Adress Translation, Paging (slides in Fronter) | MOS 3.1 - 3.3, 3.7| Tore |
+| L16 | 21.03.17 | Memory Management (slides in Fronter) | MOS 3.4 | Tore |
+| -   | 28.03.17 | No lecture | -| - | 
+| L17 | 30.03.17 | Paging, VM Design | MOS 3.5 - 3.9 | Lars Ailo |
+| L18 | 04.04.17 | Storage | MOS 5.4 | Lars Ailo |
+| L19 | 06.04.17 | File Systems I | MOS 4.1 - 4.6 | Lars Ailo |
+| -   | 11.04.17 | No lecture (easter) | - | - |
+| -   | 14.04.17 | No lecture (easter) | - | - |
+| L20 | 18.04.17 | File Systems II | MOS 4.1 - 4.6 | Lars Ailo |
+| -   | 20.04.17 | No lecture | - | - |
+| -   | 25.04.17 | No lecture | - | - |
+| L21 | 27.04.17 | Virtual Machines | MOS 7 | Lars Ailo |
+| L22 | 02.05.17 | Hot topic I | TBA | Lars Ailo |
+| L23 | 04.05.17 | Hot topic II | TBA | Lars Ailo |
 | -   | 09.05.17 | - | - | - |
 | -   | 11.05.17 | - | - | - |
 
@@ -91,6 +93,6 @@ Note! The UiT rules regarding cheating on exams ["Kildebruk, plagiering og fusk 
 | P2      | 01.02.17 | 08.02.17 | 22.02.17 | Assignment 2 |
 | P3      | 22.02.17 | 01.03.17 | 08.03.17 | Assignment 3 |
 | P4      | 08.03.17 | 15.03.17 | 29.03.17 | Assignment 4 |
-| P5      | 29.03.17 | 05.04.17 | 26.04.17? | Assignment 5 |
+| P5      | 29.03.17 | 05.04.17 | 26.04.17 | Assignment 5 |
 | Easter  | 13.04.17 | -        | 17.04.17 | God tur |
-| P6      | 26.04.17? | ?        | 24.05.17? | Assignment 6 |
+| P6      | 26.04.17 | 03.05.17 | 24.05.17 | Assignment 6 |
