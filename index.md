@@ -58,19 +58,19 @@ Refer to the lecture and mandatory assignment plan, and e-mails, for which room 
 | L15 | 16.03.17 | Adress Translation, Paging (slides in Fronter) | MOS 3.1 - 3.3, 3.7| Tore |
 | L16 | 21.03.17 | Memory Management (slides in Fronter) | MOS 3.4 | Tore |
 | -   | 28.03.17 | No lecture | -| - | 
-| L17 | 30.03.17 | Paging | MOS 3.5 - 3.9 | Lars Ailo |
-| L18 | 04.04.17 | VM Design | MOS 3.5 - 3.9 | Lars Ailo |
-| L19 | 06.04.17 | Storage | MOS 5.4 | Lars Ailo |
+| L17 | 30.03.17 | [Paging](lectures/17 - Virtual Memory.pptx) | MOS 3.5 - 3.9 | Lars Ailo |
+| L18 | 04.04.17 | [VM Design](lectures/18 - VM Paging and Deisgn.pptx) | MOS 3.5 - 3.9 | Lars Ailo |
+| L19 | 06.04.17 | [Storage](lectures/19 - Storage Systems.pdf) | MOS 5.4 | Lars Ailo |
 | -   | 11.04.17 | No lecture (easter) | - | - |
 | -   | 14.04.17 | No lecture (easter) | - | - |
 | -   | 18.04.17 | No lecture (easter) | - | - |
 | -   | 20.04.17 | No lecture | - | - |
 | -   | 25.04.17 | No lecture | - | - |
-| L20 | 27.04.17 | File Systems I | MOS 4.1 - 4.6 | Lars Ailo |
-| L21 | 02.05.17 | File Systems II | MOS 4.1 - 4.6 | Lars Ailo |
+| L20 | 27.04.17 | [File Systems I](lectures/20 - File Systems.pptx) | MOS 4.1 - 4.6 | Lars Ailo |
+| L21 | 02.05.17 | File Systems II (same slides as for part I) | MOS 4.1 - 4.6 | Lars Ailo |
 | L22 | 04.05.17 | Virtual Machines | MOS 7 | Lars Ailo |
-| L23 | 09.05.17 | Security | TBA | Lars Ailo |
-| L24 | 11.05.17 | Hot topic | TBA | Lars Ailo |
+| L23 | 09.05.17 | Security | MOS 9 | Lars Ailo |
+| L24 | 11.05.17 | Hot topic: Networing | TBA | Lars Ailo |
 
 
 ## Readings
