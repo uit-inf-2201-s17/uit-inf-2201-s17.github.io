@@ -70,7 +70,7 @@ Refer to the lecture and mandatory assignment plan, and e-mails, for which room 
 | L21 | 02.05.17 | File Systems II (same slides as for part I) | MOS 4.1 - 4.6 | Lars Ailo |
 | L22 | 04.05.17 | Virtual Machines | MOS 7 | Lars Ailo |
 | L23 | 09.05.17 | Security | MOS 9 | Lars Ailo |
-| L24 | 11.05.17 | Hot topic: Networing | TBA | Lars Ailo |
+| L24 | 11.05.17 | Hot topic: Networking | TBA | Lars Ailo |
 
 
 ## Readings
@@ -88,12 +88,14 @@ Suggested additional readings:
 
 Note! The UiT rules regarding cheating on exams ["Kildebruk, plagiering og fusk på eksamen"](https://uit.no/om/enhet/artikkel?p_document_id=473719&p_dimension_id=88138&men=28714) (in Norwegian only) applies for all projects.
 
+Note that we do not make these assignments publicly available.
+
 | Project |	Precepts | Desgin review | Due | Subject|
 |---------|----------|----------|----------|---------|
 | P1 	  | 18.01.17 | 25.01.17 | 01.02.17 | Boot-up mechanism |
-| P2      | 01.02.17 | 08.02.17 | 22.02.17 | Assignment 2 |
-| P3      | 22.02.17 | 01.03.17 | 08.03.17 | Assignment 3 |
-| P4      | 08.03.17 | 15.03.17 | 29.03.17 | Assignment 4 |
-| P5      | 29.03.17 | 05.04.17 | 26.04.17 | Assignment 5 |
+| P2      | 01.02.17 | 08.02.17 | 22.02.17 | Non-preemptive scheduling |
+| P3      | 22.02.17 | 01.03.17 | 08.03.17 | Preemptive scheduling |
+| P4      | 08.03.17 | 15.03.17 | 29.03.17 | IPC and process management |
+| P5      | 29.03.17 | 05.04.17 | 26.04.17 | Virtual memory |
 | Easter  | 13.04.17 | -        | 17.04.17 | God tur |
-| P6      | 26.04.17 | 03.05.17 | 24.05.17 | Assignment 6 |
+| P6      | 26.04.17 | 03.05.17 | 24.05.17 | File system |
