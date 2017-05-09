@@ -69,7 +69,7 @@ Refer to the lecture and mandatory assignment plan, and e-mails, for which room 
 | L20 | 27.04.17 | [File Systems I](lectures/20 - File Systems.pptx) | MOS 4.1 - 4.6 | Lars Ailo |
 | L21 | 02.05.17 | File Systems II (same slides as for part I) | MOS 4.1 - 4.6 | Lars Ailo |
 | L22 | 04.05.17 | Security (no slides) | MOS 9 | Lars Ailo |
-| L23 | 09.05.17 | Virtual Machines and Containers | MOS 7 | Lars Ailo |
+| L23 | 09.05.17 | [Virtual Machines and Containers](lectures/23 - Virtual Machines.pptx) | MOS 7 | Lars Ailo |
 | L24 | 16.05.17 | Hot topic: ? | TBA | Lars Ailo |
 
 
